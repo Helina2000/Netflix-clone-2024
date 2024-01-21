@@ -20,7 +20,6 @@ const RowList = () => {
         fetchUrl={requests.fetchTopRatedMovies}
         isLargeRow={true}
       />
-      //********* */
       <Row
         title="Action Movies"
         fetchUrl={requests.fetchActionMovies}
